@@ -1,0 +1,2 @@
+rootProject.name = "Vaccine Eligibilty Checker and Centre Locator"
+include ':app'

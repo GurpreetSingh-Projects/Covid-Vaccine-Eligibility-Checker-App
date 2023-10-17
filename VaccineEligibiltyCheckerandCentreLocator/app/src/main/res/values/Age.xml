@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Age">
+    <item>"Select your age Group"</item>
+        <item>"0-1 years"</item>
+        <item>"2-5 years"</item>
+        <item>"6-17 years"</item>
+        <item>"18-44 years"</item>
+        <item>"45+ years"</item>
+    </string-array>
+</resources>
